@@ -12,6 +12,10 @@ Skills: PYTHON/DJANGO/JAVA/VUE JS / REACT / JS / HTML / CSS
   <a href="https://www.zhihu.com/people/zheng-jun-yao-55/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
  <!-- 访客数统计徽标 -->
 <img src="https://visitor-badge.glitch.me/badge?page_id=noutinmountain" /></div>
+
+<!-- GitHub奖杯🏆 -->
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=noutinmountain&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
+
 <!-- GitHub stats -->
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=noutinmountain&show_icons=true&theme=radical" /></div>
 <!-- GitHub Activity Graph -->
