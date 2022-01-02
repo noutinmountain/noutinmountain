@@ -19,7 +19,7 @@ Skills: PYTHON/DJANGO/JAVA/VUE JS / REACT / JS / HTML / CSS
 <!-- GitHub stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=noutinmountain&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noutinmountain&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noutinmountain)](https://github.com/anuraghazra/github-readme-stats" />
 </div>
 
 <!-- GitHub Activity Graph -->
