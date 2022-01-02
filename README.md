@@ -16,11 +16,15 @@ Skills: PYTHON/DJANGO/JAVA/VUE JS / REACT / JS / HTML / CSS
 <!-- GitHub奖杯🏆 -->
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=noutinmountain&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
 
+##github数据统计
 <!-- GitHub stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noutinmountain&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noutinmountain)](https://github.com/anuraghazra/github-readme-stats" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=noutinmountain&show_icons=true&theme=radical" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noutinmountain&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 </div>
 
+##github活动表
 <!-- GitHub Activity Graph -->
 <div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=noutinmountain&theme=xcode" /></div>
+
+
