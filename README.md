@@ -1,19 +1,11 @@
-<!-- 动态打字效果 -->
-<h1 align="center">
-  <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小孙同学祝您今天愉快!&center=true&size=27">
-  </a>
-</h1>
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
 <br>
 <br>
-<br>
-<p>✍️&nbsp;&nbsp;who? I'm Zheng Junyao, from guangdong China, now lives in guangzhou, you can call me English name Joe </p>
-<p>✍️&nbsp;&nbsp;why? I really like the design, development, like learning found interesting project, started in 2021 making this open inclusive platform, opens up the new world for me is like, immediately fell in love with</p>
+<p>✍️&nbsp;&nbsp;
+  I'm Zheng Junyao, from guangdong China, now lives in guangzhou, you can call me English name Joe </p>I really like the design, development, like learning found interesting project, started in 2021 making this open inclusive platform, opens up the new world for me is like, immediately fell in love with</p>
 <p>✍️&nbsp;&nbsp;what? I'm very interested in various programming languages, Especially Java and Python, I also like using frameworks like Django, flask, vue.js, etc</p>
 <p>✍️&nbsp;&nbsp;how? I enjoy the pleasure and sense of achievement brought by programming. If you want to progress with me, please follow me, thank you！</p>
-
 <!-- 个人资料徽标 -->
 <div align="center">
   <a href="https://zhengjunyao.top/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
@@ -24,7 +16,8 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=noutinmountain" /></div>
 <br>
 
-##learning:
+learning:
+
 &emsp;&emsp;
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
@@ -37,7 +30,9 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
-##to learn:
+to learn:
+
+&emsp;&emsp;
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
