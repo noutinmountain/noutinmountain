@@ -4,9 +4,13 @@ I'm Zheng Junyao, I'm from China guangdong, now lives in guangzhou, you can call
 
 Skills: PYTHON/DJANGO/JAVA/VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
-- ![Website](https://img.shields.io/website?up_message=%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99&url=https%3A%2F%2Fwww.zhengjunyao.top)
-
+<!-- 个人资料徽标 -->
+<div align="center">
+  <a href="https://zhengjunyao.top/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
+  <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
+  <a href="https://space.bilibili.com/172464171/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
+  <a href="https://www.zhihu.com/people/zheng-jun-yao-55/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
+  
+ <!-- 访客数统计徽标 -->
+  <img src="https://visitor-badge.glitch.me/badge?page_id=noutinmountain" /></div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noutinmountain)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noutinmountain&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img alt="Website" src="https://img.shields.io/website?up_message=%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99&url=https%3A%2F%2Fwww.zhengjunyao.top">
