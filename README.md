@@ -5,7 +5,7 @@ I'm Zheng Junyao, I'm from China guangdong, now lives in guangzhou, you can call
 Skills: PYTHON/DJANGO/JAVA/VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
+- ![Website](https://img.shields.io/website?up_message=%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99&url=https%3A%2F%2Fwww.zhengjunyao.top)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noutinmountain)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=noutinmountain&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noutinmountain)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noutinmountain&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
