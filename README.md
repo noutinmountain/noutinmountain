@@ -14,4 +14,6 @@ Skills: PYTHON/DJANGO/JAVA/VUE JS / REACT / JS / HTML / CSS
  <img src="https://visitor-badge.glitch.me/badge?page_id=noutinmountain" /></div>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noutinmountain)](https://github.com/anuraghazra/github-readme-stats)
+![noutinmountain's GitHub stats](https://github-readme-stats.vercel.app/api?username=noutinmountain&show_icons=true&theme=radical)
+<!-- GitHub奖杯🏆 -->
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=noutinmountain=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
