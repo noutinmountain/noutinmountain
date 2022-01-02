@@ -22,8 +22,8 @@ github概览
 github数据统计
 <!-- GitHub stats -->
 <div align="center">
-  <img height="400px" src="https://github-readme-stats.vercel.app/api?username=noutinmountain&show_icons=true&theme=radical" />
-  <img height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noutinmountain&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+  <img height="258px" src="https://github-readme-stats.vercel.app/api?username=noutinmountain&show_icons=true&theme=radical" />
+  <img height="258px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noutinmountain&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 </div>
 <br>
 
