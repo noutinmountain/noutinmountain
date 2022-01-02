@@ -1,3 +1,12 @@
+<!-- 动态打字效果 -->
+<h1 align="center">
+  <a href="https://sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小孙同学祝您今天愉快!&center=true&size=27">
+  </a>
+</h1>
+<!-- 敲代码的图片 -->
+<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
+<br>
 ### Hi there 👋, zhengjunyao
 #### Design and Development
 I'm Zheng Junyao, I'm from China guangdong, now lives in guangzhou, you can call me English name Joe, I really like the design, development, like learning found interesting project, started in 2021 making this open inclusive platform, opens up the new world for me is like, immediately fell in love with, I'm very interested in various programming languages, Especially Java and Python, I also like using frameworks like Django, flask, vue.js, etc. I enjoy the pleasure and sense of achievement brought by programming. If you want to progress with me, please follow me, thank you！
