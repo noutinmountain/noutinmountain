@@ -1,3 +1,6 @@
+<div align="center" ><img order-radius="100px" src="https://bu.dusays.com/2022/01/04/ca2e87a6794d8.webp"/></div>
+<br>
+<br>
 ### Hi there 👋<h2> I'm zhengjunyao</h2>
 <img align='right' src="https://bu.dusays.com/2022/01/04/b95a7695a7d2f.gif" width="230">   
  from guangdong China, now lives in guangzhou, u can call me English name Joe, I really like the design, development, like learning found interesting project, started in 2021 making this open inclusive platform, opens up the new world for me is like, immediately fell in love with, I'm very interested in various programming languages, Especially Java and Python, I also like using frameworks like Django, flask, vue.js, etc.  I enjoy the pleasure and sense of achievement brought by programming. If you want to progress with me, please follow me, thank you！
@@ -39,7 +42,6 @@ to learn:
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
 <br
 <br>
-<img align='left' src="https://bu.dusays.com/2022/01/04/ca2e87a6794d8.webp" width="230"> 
 <br>
 <!-- GitHub奖杯🏆 -->
 github概览
