@@ -37,7 +37,9 @@ to learn:
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
+<br
 <br>
+<img align='left' src="https://bu.dusays.com/2022/01/04/ca2e87a6794d8.webp" width="230"> 
 <br>
 <!-- GitHub奖杯🏆 -->
 github概览
