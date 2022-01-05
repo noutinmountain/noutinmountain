@@ -40,7 +40,6 @@ to learn:
 <br
 <br>
 <br>
-<!-- GitHub奖杯🏆 -->
 github概览
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=noutinmountain&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
 <br>
@@ -62,6 +61,5 @@ social:
 <!-- BiliBili和CSDN数据 -->
 <div align="center">
   <a href="https://space.bilibili.com/172464171/"><img src="https://stats.justsong.cn/api/bilibili/?id=172464171"/></a>
-  <a href="https://blog.csdn.net/weixin_41471337"><img src="https://stats.justsong.cn/api/csdn?id=weixin_41471337"/></a>
 </div>
 <img src="https://imgur.com/rilHVxA.png"/>
